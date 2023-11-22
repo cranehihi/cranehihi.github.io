@@ -26,7 +26,7 @@ Selected Publications
 
 Services
 ============
-- Reviewer: IEEE Transactions on Industrial Informatics(TII), IEEE International Conference on Big Data (BigData)
+- Reviewer: IEEE Transactions on Industrial Informatics (TII), IEEE International Conference on Big Data (Big Data)
 
 Honors
 ============
