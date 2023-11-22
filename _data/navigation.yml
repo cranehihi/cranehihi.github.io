@@ -1,16 +1,16 @@
 # main links links
 main:
   - title: "Publications"
-    url: /selected-publications
+    url: /
+
+  - title: "Services"
+    url: /
 
   - title: "Honors"
-    url: /honors/    
+    url: /
 
   - title: "Educations"
-    url: /educations/    
+    url: /  
     
   - title: "Teaching"
-    url: /teaching/
-        
-  - title: "Services"
-    url: /services/
+    url: /
