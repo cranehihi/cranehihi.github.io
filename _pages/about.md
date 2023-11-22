@@ -31,6 +31,12 @@ Services
 Honors
 ============
 - Best Paper Award, ICCC 2022.
+- Award for Scientific Research of Peking University, 2022.12
+
+Educations
+============
+- 2019.09 - present, Ph.D., Peking University, China
+- 2015.09 - 2019.06, Bachelor of Engineering, Zhengzhou University, China
 
 Teaching
 ============
