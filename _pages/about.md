@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I'm currently a Ph.D. student at Peking University. My research interest includes congestion control, transport protocol, machine learning, and intelligent decision-making.
+I'm currently a Ph.D. student at Peking University. My research interests include congestion control, transport protocol, machine learning, and intelligent decision-making.
 
 Please feel free to drop me an e-mail if you are interested in collaborating with me.
 baihe@pku.edu.cn
