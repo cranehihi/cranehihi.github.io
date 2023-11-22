@@ -5,12 +5,6 @@ permalink: /publications/
 author_profile: true
 ---
 
-{% if author.googlescholar %}
-  You can also find my articles on <u><a href="{{author.googlescholar}}">my Google Scholar profile</a>.</u>
-{% endif %}
+- [DSCCP: A Differentiated Service-based Congestion Control Protocol for Information-Centric Networking](https://ieeexplore.ieee.org/abstract/document/9771825/). He Bai, Hui Li, Jianming Que, Minglong Zhang, Peter Han Joo Chong. *IEEE Wireless Communications and Networking Conference (WCNC)*, 2022.
 
-{% include base_path %}
 
-{% for post in site.publications reversed %}
-  {% include archive-single.html %}
-{% endfor %}
