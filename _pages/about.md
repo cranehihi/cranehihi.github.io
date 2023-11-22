@@ -22,15 +22,15 @@ Selected Publications
 **Conference Papers**
 
 - [DSCCP: A Differentiated Service-based Congestion Control Protocol for Information-Centric Networking](https://ieeexplore.ieee.org/abstract/document/9771825/). **He Bai**, Hui Li<sup>\*</sup>, Jianming Que, Minglong Zhang, Peter Han Joo Chong. *IEEE Wireless Communications and Networking Conference*, (WCNC), 2022.
-- [Limit-Caching: A Caching Scheme Based on Limited Content Popularity in ICN](https://ieeexplore.ieee.org/abstract/document/9674587/). Hongyu Guo, Hui Li<sup>\*</sup>, **He Bai**, Tao Sun, Zhe Huang. *IEEE International Conference on Computer and Communications*, (ICCC), 2022.
+- [Limit-Caching: A Caching Scheme Based on Limited Content Popularity in ICN](https://ieeexplore.ieee.org/abstract/document/9674587/). Hongyu Guo, Hui Li<sup>\*</sup>, **He Bai**, Tao Sun, Zhe Huang. *IEEE International Conference on Computer and Communications*, (ICCC), 2021.
 
 Services
 ============
-- Reviewer: IEEE Transactions on Industrial Informatics(TII), IEEE International Conference on Big Data (IEEE BigData)
+- Reviewer: IEEE Transactions on Industrial Informatics(TII), IEEE International Conference on Big Data (BigData)
 
 Honors
 ============
-- *2022* Best Paper Award, ICCC.
+- Best Paper Award, ICCC 2022.
 
 Teaching
 ============
