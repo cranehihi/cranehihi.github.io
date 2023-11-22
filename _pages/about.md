@@ -30,7 +30,7 @@ Services
 
 Honors
 ============
-- Best Paper Award, ICCC 2022.
+- Best Paper Award, ICCC 2022
 - Award for Scientific Research of Peking University, 2022.12
 
 Educations
