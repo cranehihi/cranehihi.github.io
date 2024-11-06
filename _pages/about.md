@@ -17,7 +17,7 @@ Selected Publications
 ============
 **Journal Papers**
 
-- QSCCP: A QoS-Aware Congestion Control Protocol for Information-Centric Networking. **He Bai**, Hui Li<sup>\*</sup>, Jianming Que, Abla Smahi, Minglong Zhang, Peter Han Joo Chong, Shuo-Yen Robert Li, Xiyu Wang, Ping Lu. *IEEE Transactions on Network and Service Management*, accepted. (JCR Q1).
+- [QSCCP: A QoS-Aware Congestion Control Protocol for Information-Centric Networking](https://ieeexplore.ieee.org/document/10734406). **He Bai**, Hui Li<sup>\*</sup>, Jianming Que, Abla Smahi, Minglong Zhang, Peter Han Joo Chong, Shuo-Yen Robert Li, Xiyu Wang, Ping Lu. *IEEE Transactions on Network and Service Management*, (TNSM), 2024. (JCR Q1).
 
 **Conference Papers**
 
