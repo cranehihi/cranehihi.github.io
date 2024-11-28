@@ -22,7 +22,7 @@ Selected Publications
 **Conference Papers**
 
 - [DSCCP: A Differentiated Service-based Congestion Control Protocol for Information-Centric Networking](https://ieeexplore.ieee.org/abstract/document/9771825/). **He Bai**, Hui Li<sup>\*</sup>, Jianming Que, Minglong Zhang, Peter Han Joo Chong. *IEEE Wireless Communications and Networking Conference*, (WCNC), 2022.
-- [A Scalable and Resilient Protocol for Synchronous Collaboration](). Zhengqi Wu, Hui Li<sup>\*</sup>, **He Bai**, Xinyuan Pei. *IEEE International Conference on Computer Supported Cooperative Work in Design*, (CSCWD), 2024.
+- [A Scalable and Resilient Protocol for Synchronous Collaboration](https://ieeexplore.ieee.org/abstract/document/10580450). Zhengqi Wu, Hui Li<sup>\*</sup>, **He Bai**, Xinyuan Pei. *IEEE International Conference on Computer Supported Cooperative Work in Design*, (CSCWD), 2024.
 
 - [Limit-Caching: A Caching Scheme Based on Limited Content Popularity in ICN](https://ieeexplore.ieee.org/abstract/document/9674587/). Hongyu Guo, Hui Li<sup>\*</sup>, **He Bai**, Tao Sun, Zhe Huang. *IEEE International Conference on Computer and Communications*, (ICCC), 2021.
 
